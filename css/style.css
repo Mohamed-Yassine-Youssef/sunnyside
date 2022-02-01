@@ -413,6 +413,7 @@ header .container ul li a {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  gap:40px;
 }
 .box .box1 {
   text-align: center;
@@ -429,7 +430,7 @@ header .container ul li a {
   color: gray;
 }
 .box .box1 h3 {
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 10px;
 }
 .box .box1 span {
@@ -454,7 +455,7 @@ header .container ul li a {
   line-height: 1.3;
 }
 .box .box2 h3 {
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 10px;
 }
 .box .box2 span {
@@ -479,7 +480,7 @@ header .container ul li a {
   line-height: 1.3;
 }
 .box .box3 h3 {
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 10px;
 }
 .box .box3 span {
